@@ -1,0 +1,16 @@
+[
+{
+  "modid": "healthmod",
+  "name": "Health Warner",
+  "description": "Health Warner by IWant2TryHard",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IWant2TryHard"],
+  "credits": "IWant2TryHard",
+  "logoFile": "textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
